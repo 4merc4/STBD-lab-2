@@ -1,0 +1,14 @@
+{
+ "redis_used_memory": 54402024,
+ "redis_cart_key_avg_bytes": 95.968,
+ "pg_total_bytes": 89243648,
+ "pg_table_bytes": {
+  "offers": 9060352,
+  "carts": 17457152,
+  "cart_items": 50208768,
+  "offer_views_daily": 12517376
+ },
+ "pg_cart_bytes_per_cart": 409.2853556890284,
+ "carts": 165327,
+ "items": 661734
+}
